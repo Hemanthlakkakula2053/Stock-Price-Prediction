@@ -87,7 +87,7 @@ Find more screenshots in the <b>screenshots folder</b> Or <a href="https://githu
 
 
 ## Authors
-### Kaushik Jadhav
+### HEMANTH LAKKAKULA 
 <ul>
 <li>Github: https://github.com/kaushikjadhav01</li>
 <li>Medium: https://medium.com/@kaushikjadhav01</li>
